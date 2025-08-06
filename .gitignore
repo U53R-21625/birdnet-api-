@@ -181,3 +181,9 @@ BirdNET_analysis_params.csv
 
 # Build files
 entitlements.plist
+
+# Ignore temp files from API wrapper
+*.wav
+*.mp3
+*.json
+__pycache__/
